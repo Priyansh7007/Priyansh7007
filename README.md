@@ -9,9 +9,6 @@
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**
 
 - 📫 How to reach me **priyansh.dubey7007@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1J_nKmycUczKvtW7eNTFgHO9RvyH9P9sD/edit?usp=drive_link&ouid=114673689676913070865&rtpof=true&sd=true](https://docs.google.com/document/d/1J_nKmycUczKvtW7eNTFgHO9RvyH9P9sD/edit?usp=drive_link&ouid=114673689676913070865&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I'm funny🤣**
 
 <h3 align="left">Connect with me:</h3>
