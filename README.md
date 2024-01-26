@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh7007&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh7007" /> </p>
 
-- 🌱 I’m currently learning **Java Full-Stack (Core Java, JDBC, JSP, Servelet, Spring, Spring Boot,Hibernate, MicroServices, MySQL)**
+- 🌱 I’m currently learning **Java Full-Stack (HTML, CSS , JavaScript , Core Java , JDBC , Spring , Spring Boot , Hibernate , MicroServices , MySQL)**
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/himanshu-raj-bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himanshu-raj-bhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyansh-dubey-a17982220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyansh-dubey-a17982220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
